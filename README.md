@@ -13,7 +13,10 @@ Heya, I'm Krushna :wave:! <br>
 <br>
 --> My Github Stat's, Not that much active :(
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-easy&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krushna-007&theme=codeSTACKr)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krushna-007&theme=codeSTACKr)
 
 ### Contact
 
